@@ -104,7 +104,7 @@ body {
   color: var(--color-neutral-dark-blue);
 }
 .content .main-content button {
-  width: 10rem;
+  width: 12rem;
   text-align: center;
   font-size: clamp(0.75rem, 2cqw, 1.2rem);
   font-weight: 700;
